@@ -1,3 +1,6 @@
+[submodule "vc-platform"]
+	path = vc-platform
+	url = git@github.com:scott-weeden/vc-platform.git
 [submodule "nopCommerce"]
 	path = nopCommerce
 	url = git@github.com:scott-weeden/nopCommerce.git
