@@ -1,0 +1,12 @@
+[submodule "nopCommerce"]
+	path = nopCommerce
+	url = git@github.com:scott-weeden/nopCommerce.git
+[submodule "grandnode"]
+	path = grandnode
+	url = git@github.com:scott-weeden/grandnode.git
+[submodule "Umbraco-CMS"]
+	path = Umbraco-CMS
+	url = git@github.com:scott-weeden/Umbraco-CMS.git
+[submodule "SimplCommerce"]
+	path = SimplCommerce
+	url = git@github.com:scott-weeden/SimplCommerce.git
