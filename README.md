@@ -2,6 +2,8 @@
 
 This guide provides a step-by-step tutorial on how to automate the setup of new e-commerce storefronts from a home server using Photon OS, Docker, and a reverse proxy.
 
+[Available on LinkedIn](https://www.linkedin.com/pulse/run-aspnet-ecommerce-platforms-from-home-nopcommerce-virto-weeden-cexaf)
+
 ## Table of Contents
 1. [Fork Required Repositories](#fork-required-repositories)
 2. [Add Repositories as Git Submodules](#add-repositories-as-git-submodules)
